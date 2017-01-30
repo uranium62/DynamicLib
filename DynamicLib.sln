@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicLib", "DynamicLib\DynamicLib.csproj", "{95BAE863-C8B4-41A6-B7E8-49B776770A21}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicLib.Test", "DynamicLib.Test\DynamicLib.Test.csproj", "{FAC49544-B635-4FF4-87EC-63C7750CB2FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95BAE863-C8B4-41A6-B7E8-49B776770A21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95BAE863-C8B4-41A6-B7E8-49B776770A21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95BAE863-C8B4-41A6-B7E8-49B776770A21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95BAE863-C8B4-41A6-B7E8-49B776770A21}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FAC49544-B635-4FF4-87EC-63C7750CB2FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAC49544-B635-4FF4-87EC-63C7750CB2FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAC49544-B635-4FF4-87EC-63C7750CB2FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAC49544-B635-4FF4-87EC-63C7750CB2FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
